@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+CipherStudio — Run and Deploy Your Full-Stack Cryptography App
 
-# Run and deploy your AI Studio app
+This repository contains all the necessary files and instructions to run and deploy the CipherStudio application locally for your assignment or demonstration.
 
-This contains everything you need to run your app locally.
+📘 Project Overview
 
-View your app in AI Studio: https://ai.studio/apps/drive/15V7jQ5zWV-d0urRYGlUJ64G8bQW8AGb-
+CipherStudio is a full-stack cryptography learning platform built using React (frontend) and Node.js/Express (backend).
+It allows users to encrypt, decrypt, and visualize cipher algorithms in an interactive and secure environment.
 
-## Run Locally
+⚙️ Run Locally
+Prerequisites
 
-**Prerequisites:**  Node.js
+Ensure you have the following installed:
 
+Node.js
+ (v16 or later)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+npm (comes with Node.js)
